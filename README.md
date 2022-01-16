@@ -5,5 +5,5 @@
 - 📫 How to reach me: Private.
 
 ![](https://github-readme-stats.vercel.app/api?username=NotIllgyaz)
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/illgyaz/github-stats/blob/master/generated/overview.svg)
 
